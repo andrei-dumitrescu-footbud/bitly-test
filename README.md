@@ -27,7 +27,11 @@ Once the build is complete, you can access the application at:
 
 ## Development
 
-If you prefer to run the project locally without Docker:
+If you prefer to run the project locally without Docker
+
+1. Create an .env file (you can use the .env.example file from the repo)
+
+2. Run the following commands:
 
 ```bash
 # Install dependencies
